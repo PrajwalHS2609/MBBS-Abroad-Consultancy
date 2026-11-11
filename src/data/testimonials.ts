@@ -4,7 +4,7 @@ export const TESTIMONIALS_DATA: Testimonial[] = [
   {
     id: 'test-1',
     studentName: 'Dr. Siddharth Menon',
-    photoUrl: '/src/assets/images/hero_indian_med_students_1794401014765.jpg',
+    photoUrl: '/assets/images/hero_indian_med_students_1794401014765.jpg',
     homeCity: 'Kochi, Kerala',
     universityName: 'Kazan Federal University',
     country: 'Russia',
@@ -17,7 +17,7 @@ export const TESTIMONIALS_DATA: Testimonial[] = [
   {
     id: 'test-2',
     studentName: 'Priya Sharma',
-    photoUrl: '/src/assets/images/graduation_ceremony_doctors_1794401016581.jpg',
+    photoUrl: '/assets/images/graduation_ceremony_doctors_1794401016581.jpg',
     homeCity: 'Jaipur, Rajasthan',
     universityName: 'Tbilisi State Medical University',
     country: 'Georgia',
@@ -30,7 +30,7 @@ export const TESTIMONIALS_DATA: Testimonial[] = [
   {
     id: 'test-3',
     studentName: 'Mohammad Farhan',
-    photoUrl: '/src/assets/images/medical_lab_training_1794401015734.jpg',
+    photoUrl: '/assets/images/medical_lab_training_1794401015734.jpg',
     homeCity: 'Hyderabad, Telangana',
     universityName: 'Kazakh National Medical University (Asfendiyarov)',
     country: 'Kazakhstan',
@@ -43,7 +43,7 @@ export const TESTIMONIALS_DATA: Testimonial[] = [
   {
     id: 'test-4',
     studentName: 'Aishwarya Patel',
-    photoUrl: '/src/assets/images/hero_indian_med_students_1794401014765.jpg',
+    photoUrl: '/assets/images/hero_indian_med_students_1794401014765.jpg',
     homeCity: 'Ahmedabad, Gujarat',
     universityName: 'Bashkir State Medical University',
     country: 'Russia',

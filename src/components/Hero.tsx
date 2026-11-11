@@ -152,7 +152,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCounselling, onLeadSubmit }) =
               {/* Image banner with overlay */}
               <div className="relative h-48 w-full overflow-hidden bg-slate-900">
                 <img
-                  src="/src/assets/images/hero_indian_med_students_1794401014765.jpg"
+                  src="/assets/images/hero_indian_med_students_1794401014765.jpg"
                   alt="Indian medical students walking through international university campus"
                   className="w-full h-full object-cover object-center"
                   referrerPolicy="no-referrer"

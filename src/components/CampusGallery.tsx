@@ -10,7 +10,7 @@ export const CampusGallery: React.FC = () => {
       category: 'campuses',
       title: 'European State Medical University Facade',
       location: 'Kazan, Russia',
-      image: '/src/assets/images/campus_university_russia_1794401015785.jpg',
+      image: '/assets/images/campus_university_russia_1794401015785.jpg',
       aspect: 'col-span-12 md:col-span-8 h-80 md:h-96',
       tag: 'Academic Heritage'
     },
@@ -19,7 +19,7 @@ export const CampusGallery: React.FC = () => {
       category: 'labs',
       title: 'High-Fidelity Clinical Simulation Lab',
       location: 'Almaty, Kazakhstan',
-      image: '/src/assets/images/medical_lab_training_1794401015734.jpg',
+      image: '/assets/images/medical_lab_training_1794401015734.jpg',
       aspect: 'col-span-12 md:col-span-4 h-80 md:h-96',
       tag: 'Hands-on Clinical Training'
     },
@@ -28,7 +28,7 @@ export const CampusGallery: React.FC = () => {
       category: 'campuses',
       title: 'Indian Medical Students on Campus Courtyard',
       location: 'Tbilisi, Georgia',
-      image: '/src/assets/images/hero_indian_med_students_1794401014765.jpg',
+      image: '/assets/images/hero_indian_med_students_1794401014765.jpg',
       aspect: 'col-span-12 md:col-span-6 h-80',
       tag: 'Student Life'
     },
@@ -37,7 +37,7 @@ export const CampusGallery: React.FC = () => {
       category: 'graduations',
       title: 'Graduation Ceremony & Medical Oath Convocation',
       location: 'Kathmandu, Nepal',
-      image: '/src/assets/images/graduation_ceremony_doctors_1794401016581.jpg',
+      image: '/assets/images/graduation_ceremony_doctors_1794401016581.jpg',
       aspect: 'col-span-12 md:col-span-6 h-80',
       tag: 'Doctor of Medicine Convocation'
     }

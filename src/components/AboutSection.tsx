@@ -19,7 +19,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenCounselling })
           <div className="lg:col-span-5 space-y-4">
             <div className="relative rounded-2xl overflow-hidden shadow-lg border border-slate-200 bg-white">
               <img
-                src="/src/assets/images/campus_university_russia_1794401015785.jpg"
+                src="/assets/images/campus_university_russia_1794401015785.jpg"
                 alt="European State Medical University historic campus"
                 className="w-full h-80 object-cover object-center"
                 referrerPolicy="no-referrer"
