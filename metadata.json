@@ -1,0 +1,6 @@
+{
+  "name": "Aventis Medical - MBBS Abroad Admission Consultancy",
+  "description": "Premier MBBS Abroad admission consultancy in India guiding Indian medical aspirants to top WHO and NMC-compliant international medical universities across Russia, Georgia, Kazakhstan, Uzbekistan, and Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
